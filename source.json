@@ -1,0 +1,39 @@
+{
+  "name": "Doge source",
+  "identifier": "com.a5.dogesidesource",
+  "sourceURL": "https://raw.githubusercontent.com/Thatsanothertoast/dogesource/refs/heads/main/source.json",
+  "iconURL": "https://sidestore.io/assets/icon.png",
+  "userinfo": {},
+  "apps": [
+    {
+      "name": "Netflix VIP",
+      "bundleIdentifier": "com.chengzu.book",
+      "developerName": "Unkown",
+      "version": "3.0",
+      "versionDate": "2022-09-18T23:59:49Z",
+      "versionDescription": "# v1.13.2\n\n",
+      "downloadURL": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
+      "localizedDescription": "One of the best piracy apps for iOS. Note that this isn't just cracked Netflix, its a general piracy app. No ads, Good UI, and a Good selection",
+      "iconURL": "https://i.imgur.com/JP0Fncv.png",
+      "tintColor": "#21486b",
+      "size": 14509458,
+      "screenshotURLs": [
+        "https://media.discordapp.net/attachments/1340147927464546397/1474980141645041714/IMG_3447.png?ex=699bd1cd&is=699a804d&hm=d9478c121b1c328430c258d0ae07c5f912e91c267080084a35c84b499fd5cdb6&=&format=webp&quality=lossless&width=251&height=543",
+        "https://media.discordapp.net/attachments/1340147927464546397/1474980141171216545/IMG_3448.png?ex=699bd1cd&is=699a804d&hm=8484ecfafce136de3a7dece4cfa3b703adca7ab36cc6384fbc6f172e7f9278cf&=&format=webp&quality=lossless&width=251&height=543",
+        "https://media.discordapp.net/attachments/1340147927464546397/1474980142160937082/IMG_3449.png?ex=699bd1cd&is=699a804d&hm=da32840a2cd3745baebc6b7ec55c3a037ddc243b41aeb43d2f1de7ea53d76390&=&format=webp&quality=lossless&width=251&height=543",
+        "https://media.discordapp.net/attachments/1340147927464546397/1474980140680351886/IMG_3450.png?ex=699bd1cd&is=699a804d&hm=1d72fcb015eb79a81730525acdfae251acf9fb8a41c29fc4ef4c98335b60002c&=&format=webp&quality=lossless&width=1128&height=521"
+      ],
+      "subtitle": "Piracy at it's finest",
+      "absoluteVersion": "3.0",
+      "appID": "com.chengzu.book",
+      "versions": [
+        {
+          "version": "3.0",
+          "date": "2026-02-21T23:59:49Z",
+          "downloadURL": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
+          "localizedDescription": "# v1.13.2\n\n",
+          "size": 14509458,
+          "absoluteVersion": "3.0"
+        }
+      ]
+    }
