@@ -2,7 +2,7 @@
   "name": "Doge source",
   "identifier": "com.a5.dogesidesource",
   "sourceURL": "https://raw.githubusercontent.com/Thatsanothertoast/dogesource/refs/heads/main/source.json",
-  "iconURL": "https://sidestore.io/assets/icon.png",
+  "iconURL": "https://github.com/dns-jig/dogesource/blob/main/icon.png?raw=true",
   "userinfo": {},
   "apps": [
     {
@@ -11,7 +11,7 @@
       "developerName": "Unkown",
       "version": "3.0",
       "versionDate": "2022-09-18T23:59:49Z",
-      "versionDescription": "# v1.13.2\n\n",
+      "versionDescription": "# 3.0\n\n",
       "downloadURL": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
       "localizedDescription": "One of the best piracy apps for iOS. Note that this isn't just cracked Netflix, its a general piracy app. No ads, Good UI, and a Good selection",
       "iconURL": "https://i.imgur.com/JP0Fncv.png",
